@@ -1,0 +1,134 @@
+<?php
+?>
+
+ <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Guerra Fria</title>
+
+    <link rel="stylesheet" href="CSS/style.css"> 
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+   <script src="JS/bootstrap.bundle.min.js"></script>
+   <script src="JS/popper.min.js"></script>
+   <script src="JS/bootstrap.js"></script>
+    </head>
+
+    <body>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+  <div class="container-fluid">
+    
+    <a class="navbar-brand" href="#">GuerraFria.com</a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Home</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">Acerca De</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contactanos</a>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+            Menu Desplegable
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Acción</a></li>
+            <li><a class="dropdown-item" href="#">Otra opción</a></li>
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+
+  </div>
+</nav>
+      <style>
+    body {
+    background-color: #f5f5dc;
+     }
+</style>
+      <footer>
+
+       <div class="guer">
+         <h1>Guerra Fría</h1>
+         <p class="text-center" style="color: #ffffff;"> <strong>La Guerra Fría fue una tensión constante que puso al mundo al borde del desastre. <br>
+            Ideologías opuestas, amenazas nucleares y decisiones que marcaron la historia.<br>
+            Descubre cómo este conflicto silencioso cambió el rumbo del mundo.</strong></p>
+            <div class="text-center">
+           <button type="button" class="btn" style="background-color: #ef3a3a; color: white;">
+            Para más información
+         </button>
+        </div>
+       </div>
+      </footer>
+       <br>
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="col">
+    <div class="card" style="width: 40rem; background-color: #f1e0c9;">
+      <img src="imagenes/3.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Introduccion</h5>
+        <p class="card-text">La Guerra Fría fue un conflicto político, ideológico y económico que ocurrió aproximadamente entre 1947 y 1991.
+          Se le llama “fría” porque nunca hubo un enfrentamiento directo a gran escala entre las dos principales potencias, 
+          sino que la rivalidad se manifestó a través de tensiones, amenazas, propaganda y conflictos indirectos.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card" style="width: 40rem; background-color: #f1e0c9;">
+      <img src="imagenes/4.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Contexto histórico</h5>
+        <p class="card-text">Después de la Segunda Guerra Mundial, el mundo quedó dividido en dos bloques liderados por:
+
+Estados Unidos (capitalista)
+Unión Soviética (comunista)
+
+Ambas potencias emergieron como líderes mundiales y comenzaron a competir por influencia política, económica y militar en todo el planeta.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card" style="width: 40rem; background-color: #f1e0c9;">
+      <img src="imagenes/5.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Causas</h5>
+        <p class="card-text">Las principales causas de la Guerra Fría fuero: <br>‣Diferencias ideológicas: capitalismo vs comunismo<br>
+          ‣Lucha por el poder global <br>
+          ‣Desconfianza mutua tras la Segunda Guerra Mundial<br>
+          ‣Intereses económicos y políticos opuestos<br>
+          ‣Estas tensiones hicieron que ambos bloques se vieran como enemigos potenciales.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card" style="width: 40rem; background-color: #f1e0c9;">
+      <img src="imagenes/6.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Capitalismo vs Comunismo</h5>
+        <p class="card-text">El conflicto central de la Guerra Fría se basaba en dos sistemas opuestos:
+
+Capitalismo: sistema económico basado en la propiedad privada y el libre mercado.
+Comunismo: sistema que busca la igualdad social mediante la propiedad colectiva y la planificación estatal.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+     <footer class="bg-dark text-white text-center p-3 mt-4">
+       <p class="mb-0">© 2026 José González - Guerra Fría</p>
+     </footer>
+

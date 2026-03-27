@@ -1,0 +1,40 @@
+h1{
+    color: #3DA4FF;
+    text-align: center;
+}
+.Introduccion{
+    color: #34495e; /*color rojo*/
+    font-size: 30px;
+    font-family: Montserrat, sans-serif;
+}
+.guer{
+    background-image: url("../imagenes/2.jpg") !important;
+    background-size: contain;
+    background-position: center;
+    height: 250px;
+    color: white;
+}
+
+.container{
+    color: #FA722B; /*color naranja*/
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+}
+.DebilidadesyFortalezas{
+    color: #78FF3D; /*color verde*/
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+}
+.TestdeTDAH{
+    color: #9b111e; /*color verde*/
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+
+.col1 {
+  background-color: #f0cfa4, !important;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
